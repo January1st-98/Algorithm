@@ -1,3 +1,10 @@
+//
+//  01759.swift
+//  Algorithm
+//
+//  Created by Jaehoon So on 2022/05/24.
+//
+
 ///암호는 서로다른 L개의 알파벳 소문자들로 구성된다.
 ///최소 한개의 모음(a, e, i, o, u)와 최소 두개의 자음으로 구성되어 있다.
 ///암호를 이루는 알파벳은 암호에서 증가하는 순서로 배열되어있다.
@@ -39,3 +46,4 @@ func solve(_ count: Int, _ start: Int) {
 }
 solve(0, 0)
 print(str)
+
