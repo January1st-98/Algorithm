@@ -2,3 +2,5 @@
 *.iml
 *.xml
 Algorithm_python/.idea/Algorithm_python.iml
+*.iml
+Algorithm_python/.idea/misc.xml
